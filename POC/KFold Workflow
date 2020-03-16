@@ -1,0 +1,3 @@
+Kfold function
+
+Train_data from dir -> split out validation data -> generate the training and testing data -> then run the model
